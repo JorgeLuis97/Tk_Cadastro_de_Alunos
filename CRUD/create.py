@@ -1,2 +1,5 @@
-def ADD():
-    lista.insert(END, d)
+from tkinter import messagebox
+
+
+
+
